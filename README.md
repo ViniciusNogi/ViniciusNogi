@@ -1,7 +1,7 @@
 <img src = "giphy ti.gif" width = "450px" align= "right" >
 <br> </br>
 
-<h1> # Seja bem vindo ao meu GitHub 😎💻✨ </h1>
+<h1>  Seja bem vindo ao meu GitHub  </h1>
 <br> </br>
 
 <h4> ❤ Sou estudante e um entusiasta por Ti com foco em QA </h4>
