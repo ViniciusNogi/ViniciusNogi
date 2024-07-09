@@ -4,7 +4,7 @@
 <h1>  Seja bem vindo ao meu GitHub  </h1>
 <br> </br>
 
-<h4> ❤ Sou estudante e um entusiasta por TI com foco em Backend </h4>
+
 <br> </br>
 
 <h4>Minha página no LinkedIn</h4>
